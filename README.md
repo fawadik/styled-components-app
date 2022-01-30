@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Use of Styled-Components
+
+This small project is build up to showcase that how styled components work. It just a preparatory small project in order to get an over view of styled-components. How the styled components are created and how they enhance the functionality of re-usability of the react components.
+
 ## Available Scripts
 
 In the project directory, you can run:

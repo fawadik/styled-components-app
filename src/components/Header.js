@@ -2,7 +2,7 @@ import React from "react";
 import { Button } from "./styles/Button.styled";
 import { Container } from "./styles/Container.styled";
 import { Flex } from "./styles/Flex.styled";
-import { Logo, Nav, StyledHeader } from "./styles/Header.styled";
+import { Logo, Nav, StyledHeader, Image } from "./styles/Header.styled";
 
 function Header() {
   return (
@@ -22,10 +22,11 @@ function Header() {
               world—often filled with hatred—could do with people spreading more
               love around. Without love, our lives can often feel empty.
             </p>
-            <Button bf="#ff0099" color="#fff">
+            <Button bg="#ff0099" color="#fff">
               Try it for free
             </Button>
           </div>
+          <Image src="./images/illustration-mockups.svg" alt="" />
         </Flex>
       </Container>
     </StyledHeader>
